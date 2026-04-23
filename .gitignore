@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+**/node_modules/
+package-lock.json
+**/package-lock.json
+
+# Next.js
+.next/
+**/.next/
+out/
+**/out/
+next-env.d.ts
+**/next-env.d.ts
+
+# Misc
+.DS_Store
+*.pem
+/AGENTS.md
+/package.json
+
+# Build
+build/
+**/build/
+dist/
+**/dist/
