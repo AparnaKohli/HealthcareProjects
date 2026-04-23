@@ -15,7 +15,6 @@ next-env.d.ts
 # Misc
 .DS_Store
 *.pem
-/AGENTS.md
 /package.json
 
 # Build
